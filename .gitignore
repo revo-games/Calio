@@ -21,3 +21,5 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+*.log
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
