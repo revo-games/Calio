@@ -1,0 +1,2 @@
+Begin Object Class=/Script/Engine.ParticleSystem Name="PTTEST"
+End Object
